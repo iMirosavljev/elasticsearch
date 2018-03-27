@@ -20,7 +20,7 @@ password protection will be added.
 [[creating-keystore]]
 === Creating the keystore
 
-To create the `elasticsearch.keystore`, use the `create` command:
+To create the `elasticsearch.keystore`, use the `create` command in your /usr/share/elasticsearch folder:
 
 [source,sh]
 ----------------------------------------------------------------
